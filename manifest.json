@@ -1,0 +1,30 @@
+{
+  "name": "Asistencias UCOL",
+  "short_name": "Asistencias",
+  "icons": [{
+    "src": "img/icon2-ucol-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "img/icon2-ucol-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "img/icon2-ucol-128.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "img/icon2-ucol-128.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "img/icon2-ucol-128.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+  "start_url": "./",
+  "scope": "./includes/",  
+  "display": "standalone",
+  "background_color": "#fff", 
+  "theme_color": "#2F3BA2"
+}
